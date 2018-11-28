@@ -6,8 +6,8 @@
     "maintainer": "Arduino <info@arduino.cc>",
     "category": "Communications",
     "subcategory": "Encryption",
-    "family": "arm-sam",
-    "core": "arduino-sam",
+    "family": "arm-samd",
+    "core": "arduino-samd",
     "install": {
         "examples": "/",
         "keywords.txt": "/",
